@@ -1,1 +1,4 @@
-this is a confictt main folder
+<<<<<<< HEAD
+i edited a file in conflict
+
+>>>>>>> feature2
