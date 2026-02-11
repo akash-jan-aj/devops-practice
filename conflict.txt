@@ -1,1 +1,2 @@
 this is a conflict folder
+is this feauture2 edit
