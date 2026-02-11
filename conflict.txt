@@ -1,1 +1,1 @@
-this is a conflict folder
+this is a confictt main folder
